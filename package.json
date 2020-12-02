@@ -1,13 +1,19 @@
 {
- “name”: “node-app”,
- “description”: “hello jenkins test app”,
- “version”: “0.0.1”,
- “private”: true,
- “dependencies”: {
-    “express”: “3.12.0”
- },
- “devDependencies”: {
-    “mocha”: “1.20.1”,
-    “supertest”: “0.13.0”
- }
+  "name": "npmpkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshtripathi30/jenkingstraining.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshtripathi30/jenkingstraining/issues"
+  },
+  "homepage": "https://github.com/dineshtripathi30/jenkingstraining#readme"
 }
